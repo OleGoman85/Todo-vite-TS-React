@@ -51,8 +51,9 @@ npm install
 npm run dev
 
 ---
-![Screenshot1](https://github.com/OleGoman85/Todo-vite-TS-React/blob/main/1.png)
-![Screenshot2](https://github.com/OleGoman85/Todo-vite-TS-React/blob/main/2.png)
-![Screenshot3](https://github.com/OleGoman85/Todo-vite-TS-React/blob/main/3.png)
-![Screenshot4](https://github.com/OleGoman85/Todo-vite-TS-React/blob/main/4.png)
+
+![Screenshot1](https://github.com/OleGoman85/Todo-vite-TS-React/raw/main/1.png)
+![Screenshot2](https://github.com/OleGoman85/Todo-vite-TS-React/raw/main/2.png)
+![Screenshot3](https://github.com/OleGoman85/Todo-vite-TS-React/raw/main/3.png)
+![Screenshot4](https://github.com/OleGoman85/Todo-vite-TS-React/raw/main/4.png)
 
