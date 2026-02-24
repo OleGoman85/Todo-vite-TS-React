@@ -50,14 +50,8 @@ The app allows users to manage tasks efficiently with filtering, editing, persis
 npm install
 npm run dev
 
----
-
-![Screenshot1](https://github.com/npm install
-npm run dev
-
----
-
-![Screenshot1](https://github.com/OleGoman85/Todo-vite-TS-React/blob/bd9f2b5cba7e2e54465ee8391adc55feddd58b9b/1.jpg)
+```
+![Screenshot1](https://github.com/OleGoman85/Todo-vite-TS-React/raw/main/1.jpg)
 ![Screenshot2](https://github.com/OleGoman85/Todo-vite-TS-React/raw/main/2.png)
 ![Screenshot3](https://github.com/OleGoman85/Todo-vite-TS-React/raw/main/3.png)
 ![Screenshot4](https://github.com/OleGoman85/Todo-vite-TS-React/raw/main/4.png)
